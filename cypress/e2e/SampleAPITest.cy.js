@@ -37,7 +37,7 @@ describe('Test Suit ',()=>{
             })
     })
 
-    const AUTH_KEY='Bearer f0613e4868211208ec94cf61025fed1aaf8e586689fccb804be7f2d775280d8f';
+    const AUTH_KEY='Bearer ';
 
     it('API Chaining',()=>{
         cy.request({
